@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2020-09-13T12:17:40Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="dbf7846b-31da-47b6-aa5c-b2bc385987f9"><c:Value>4f8fe711-2271-4b98-bc6c-df0f6bf160f0</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="0bc5f0b1-3f8a-4fed-962e-54dc5486e489"><c:NickName>无</c:NickName><c:Title>个人</c:Title><c:FormattedName>徐 远嘱</c:FormattedName><c:FamilyName>徐</c:FamilyName><c:GivenName>远嘱</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="42826b0e-94fb-48a8-bf7c-4867dba18f5f"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
